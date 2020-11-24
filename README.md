@@ -19,6 +19,9 @@ To build and run the source code contained in this repository it is required as 
 ## Brother Project
 [PUCCADevLib](https://github.com/JJOL/PUCCADevLib).
 
+## MASON Original Project
+[MASON](https://github.com/eclab/mason).
+
 ## License
 For MASON: [Academic Free License ("AFL") v. 3.0](LICENSE)
 For JPUCCA: [GNU General Public License 3.0](JPUCCA_LICENSE)
